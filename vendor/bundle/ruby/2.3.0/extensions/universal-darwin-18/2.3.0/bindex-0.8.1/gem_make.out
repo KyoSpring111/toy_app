@@ -1,0 +1,15 @@
+current directory: /Users/nakazonoikki/Documents/programming/rails/railsTutorial/toy_app/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190828-87854-19ruw5q.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nakazonoikki/Documents/programming/rails/railsTutorial/toy_app/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/nakazonoikki/Documents/programming/rails/railsTutorial/toy_app/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/nakazonoikki/Documents/programming/rails/railsTutorial/toy_app/vendor/bundle/ruby/2.3.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190828-87854-5cta53/skiptrace/internal
